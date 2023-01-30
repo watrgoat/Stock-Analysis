@@ -1,2 +1,2 @@
-# DataSci
-All of my data science testing
+# Stocks
+Collection of different ways to analyze stocks
